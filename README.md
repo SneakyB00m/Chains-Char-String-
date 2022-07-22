@@ -1,2 +1,2 @@
-# Chains Char-String-
+# Chains Char-String
 Practice of chains

@@ -1,2 +1,2 @@
-# Chains Char-String-JAVA
+# Chains Char-String
 Practice of chains
